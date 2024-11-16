@@ -20,7 +20,7 @@ This is a travel web application built with Vue.js. It allows users to explore v
 - Gh-pages: Used for deploying the app to GitHub Pages.
 
 ## Project Structure
-
+```
 travel-app-vue/
 ├── .git/                     # Git version control directory
 ├── .gitignore                # Specifies files ignored by Git
@@ -53,7 +53,7 @@ travel-app-vue/
         ├── ExperienceDetails.vue   # Page for experience details
         ├── HomeView.vue            # Home page
         └── NotFound.vue            # 404 error page
-
+```
 ## How to Run Locally
 
 1. Clone this repository to your local machine.

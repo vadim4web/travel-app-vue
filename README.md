@@ -1,6 +1,6 @@
 # Travel App Vue
 
-[![Travel App Vue Screenshot](https://github.com/1abcdesign/travel-app-vue/blob/main/screenshot.png)](https://1abcdesign.github.io/travel-app-vue/)
+[![Travel App Vue Screenshot](https://github.com/vadim4web/travel-app-vue/blob/main/screenshot.png)](https://vadim4web.github.io/travel-app-vue/)
 
 ## Overview
 
@@ -70,4 +70,4 @@ npm run serve
 
 ## Author
 
-(&ccaron;) Vadym Chervoniak-Bogdanov.
+(&copy;) Vadim Chervoniak
